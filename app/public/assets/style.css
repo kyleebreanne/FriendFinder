@@ -1,0 +1,23 @@
+.home{
+    background-image: url("../../../app/data/images/architecture-art-blur-159868.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'Staatliches', cursive;
+
+}
+.jumbotron {
+    margin-bottom: 0px;
+    opacity: 0.4;
+    color: #f1ff64;
+    font-family:bold;
+    background: #000;
+}
+
+.survey {
+    background-image: url(../../data/images/adorable-animal-cat-730896.jpg);
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    font-family: 'Staatliches', cursive;
+    color: aliceblue;
+}
